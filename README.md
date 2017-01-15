@@ -1,3 +1,5 @@
 # Hello-Python
 
-Hi! songyu there.
+Hi! songyu there.\
+
+for second edition.
